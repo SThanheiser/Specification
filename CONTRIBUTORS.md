@@ -1,14 +1,13 @@
 #Team:
 
  * Miriam Ballhausen
+ * Stefan Thanheiser
  * Jan Thielscher
  * Daniel Wulle
 
 #Reviewer:
 
  * Stefanie Pors
- * Stefan Thanheiser
- 
 
 #Maintainer:
 
